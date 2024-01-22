@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5db7a16.css",
-    "main.js": "/static/js/main.3a0c3f5e.js",
+    "main.css": "/static/css/main.66169ff6.css",
+    "main.js": "/static/js/main.e67e1fe8.js",
     "static/js/787.6dac1136.chunk.js": "/static/js/787.6dac1136.chunk.js",
     "static/media/euclidean-vector-outer-space-clip-art-vector-space-png": "/static/media/euclidean-vector-outer-space-clip-art-vector-space-87501a1a8a4ca4d1510f0b519a2eff8e.8fa82b437f7ccd042871.png",
     "static/media/Dosis-VariableFont_wght.ttf": "/static/media/Dosis-VariableFont_wght.0e7b67016bff1c785ebd.ttf",
     "static/media/stars.jpg": "/static/media/stars.f985dd077b7af2b50f46.jpg",
     "index.html": "/index.html",
-    "main.d5db7a16.css.map": "/static/css/main.d5db7a16.css.map",
-    "main.3a0c3f5e.js.map": "/static/js/main.3a0c3f5e.js.map",
+    "main.66169ff6.css.map": "/static/css/main.66169ff6.css.map",
+    "main.e67e1fe8.js.map": "/static/js/main.e67e1fe8.js.map",
     "787.6dac1136.chunk.js.map": "/static/js/787.6dac1136.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5db7a16.css",
-    "static/js/main.3a0c3f5e.js"
+    "static/css/main.66169ff6.css",
+    "static/js/main.e67e1fe8.js"
   ]
 }
